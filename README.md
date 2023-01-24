@@ -1,6 +1,6 @@
 # Hi, I'm Erick! 😄
 
-I am a biomedical engineer with a passion for artificial intelligence, data science, and data analytics. I have been working in the field of biomedical data analysis, specifically using machine learning techniques to detect diseases from medical images and data visualization. My interests also extend to web scraping and other data acquisition methods.
+<p style='Text-align: justify;'>I am a biomedical engineer with a passion for artificial intelligence, data science, and data analytics. I have been working in the field of biomedical data analysis, specifically using machine learning techniques to detect diseases from medical images and data visualization. My interests also extend to web scraping and other data acquisition methods.
 
 In my past projects, I have worked on developing image classification models for disease detection using deep learning techniques. I have also built interactive data visualization tools to help medical professionals and researchers better understand their data.
 
@@ -8,4 +8,4 @@ I am always looking for new and challenging projects to work on. I am particular
 
 You can find all my projects on my Github Profile and you can also follow me on [**LinkedIn**](https://www.linkedin.com/in/erickrobm/) for more updates on my work.
 
-Thank you for visiting my page!
+Thank you for visiting my page!</p>
